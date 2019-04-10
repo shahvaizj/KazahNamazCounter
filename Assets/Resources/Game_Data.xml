@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<DATA>
+	<ADSIDS_ANDROID>
+	  <ADMOB>
+
+	    <IAD>ca-app-pub-5770418752327094/7624135890</IAD>
+	    <RAD>ca-app-pub-3940256099942544/5224354917</RAD>
+
+	  </ADMOB>
+
+	   <UNITY>	 
+	      
+	   <IAD>1713219</IAD>
+	   <RAD>rewardedVideo</RAD>
+
+	  </UNITY>
+
+	</ADSIDS_ANDROID>
+
+	<ADSIDS_IOS>
+	  <ADMOB>
+
+	    <IAD>ca-app-pub-5770418752327094/7624135890</IAD>
+	    <RAD>ca-app-pub-3940256099942544/5224354917</RAD>
+
+	  </ADMOB>
+
+	   <UNITY>	 
+	      
+	   <IAD>1713219</IAD>
+	   <RAD>rewardedVideo</RAD>
+
+	  </UNITY>
+
+	</ADSIDS_IOS>
+
+	<LINKS>
+
+		<FB>https://www.facebook.com/</FB>
+		<MORE_GAMES>https://play.google.com/store?hl=en</MORE_GAMES>
+		<RATE_US>https://play.google.com</RATE_US>
+		<PRIVACY_POLICY>http://gameinnovationfunstudio.com/privacypolicy.html</PRIVACY_POLICY>
+		
+	</LINKS>
+
+
+	<F_AD_DELAY FIRST_DELAY = "120"> </F_AD_DELAY>
+	<S_AD_DELAY SECOND_DELAY = "60"> </S_AD_DELAY>
+	<CUBES_RECHARGE_DELAY CUBES_DELAY = "120"> </CUBES_RECHARGE_DELAY>
+</DATA>
